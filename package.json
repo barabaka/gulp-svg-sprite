@@ -24,7 +24,7 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "svg-sprite": "~1.2.19",
+    "svg-sprite": "git://github.com/barabaka/svg-sprite",
     "through2": "^2.0.0",
     "gulp-util": "^3.0.7",
     "vinyl": "^1.1.0"
